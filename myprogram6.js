@@ -6,5 +6,3 @@ myModule(process.argv[2], process.argv[3], function(error, data) {
     console.log(data[i])
   }
 })
-
-// fs.readdir(process.argv[2], )
